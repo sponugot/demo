@@ -1,0 +1,4 @@
+file3
+This is 
+the content of file3
+file3
