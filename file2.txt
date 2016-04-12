@@ -1,2 +1,4 @@
 file2
 This is the content of file2
+
+Adding from the branch file3
