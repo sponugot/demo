@@ -1,3 +1,6 @@
 This is the content of file1
 file1
 file1
+
+Changed in file1-chnages branch
+line 2 
